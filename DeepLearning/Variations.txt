@@ -1,0 +1,30 @@
+--- Activation Functions ---
+ReLU ==> Used for Categorical Models
+Linear ==> Used for Regression Models
+Softmax
+Sigmoid ==> Used for Binary Logistic Regression Models
+
+--- Regularization ---
+Dropout ==> Deactivates random neurons on any layer so the model doesn't get dependent on certain neurons
+L1 and L2 Regularization
+
+--- Outputs ---
+Categorical ==> Used when the output is a prediction based on certainty of the model
+Binary Logistic Regression ==> Used when output is either 0 or 1 (True or False, One class or the other)
+Regression ==> Determining a specific value as the output (Temperature)
+
+--- Accuracy ---
+Categorical ==> An Accuracy in percent
+Regression ==> An Accuracy in percent (calculated differently)
+
+--- Loss ---
+Categorical Crossentropy
+Binary Crossentropy
+Mean Squared Error ==> Used for Regression Models
+Mean Absolute Error ==> Used for Regression Models
+
+--- Optimizer ---
+SGD
+Adam
+AdaGrad
+RMS
