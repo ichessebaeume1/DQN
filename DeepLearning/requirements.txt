@@ -1,5 +1,0 @@
-numpy==1.24.4
-visdom==0.2.4
-opencv-python==4.8.1.78
-tqdm==4.66.1
-scipy==1.8.1
